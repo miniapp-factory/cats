@@ -1,3 +1,4 @@
+"use client";
 import { useState } from "react";
 import CatCard from "./cat-card";
 import { getRandomCat, Cat } from "@/lib/cats";
